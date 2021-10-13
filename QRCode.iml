@@ -10,28 +10,31 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/qrgen-1.2.jar.zip!/" />
+          <root url="file://$USER_HOME$/Downloads/qrgen-1.2.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/qrgen-1.2.jar" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/zxing-core-1.7.jar.zip!/" />
+          <root url="file://$USER_HOME$/Downloads/zxing-core-1.7.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/zxing-core-1.7.jar" recursive="false" />
       </library>
     </orderEntry>
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/zxing-j2se-1.7.jar.zip!/" />
+          <root url="file://$USER_HOME$/Downloads/zxing-j2se-1.7.jar" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+        <jarDirectory url="file://$USER_HOME$/Downloads/zxing-j2se-1.7.jar" recursive="false" />
       </library>
     </orderEntry>
   </component>
